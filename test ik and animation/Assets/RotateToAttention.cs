@@ -8,12 +8,16 @@ public class RotateToAttention : MonoBehaviour
     [SerializeField] private float range;
     private Vector3 _rangeExtent;
     private int _layerMask;
+    private Vector3 _midMousePos;
+    private Vector2 _screenDimensions;
 
     // Start is called before the first frame update
     void Start()
     {
         _rangeExtent = new Vector3(range, range, range);
         _layerMask = LayerMask.GetMask("LookAt");
+        
+        _screenDimensions = new Vector2(Screen.width/2, Screen.height/2);
     }
 
     // Update is called once per frame
@@ -51,7 +55,9 @@ public class RotateToAttention : MonoBehaviour
             
             return attentionPoints[closestId];
         }
-
-        return Camera.main.transform.position;
+        
+        _midMousePos = new Vector3(Input.mousePosition.x - _screenDimensions.x, Input.mousePosition.y - _screenDimensions.y, 0);
+        Vector3 returnPosition = Camera.main.transform.position + Camera.main.transform.rotation * _midMousePos.normalized;
+        return returnPosition;
     }
 }
