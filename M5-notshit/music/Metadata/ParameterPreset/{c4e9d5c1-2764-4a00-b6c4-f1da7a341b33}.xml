@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.00.00">
+	<object class="ParameterPreset" id="{c4e9d5c1-2764-4a00-b6c4-f1da7a341b33}">
+		<property name="name">
+			<value>PercProb</value>
+		</property>
+		<relationship name="folder">
+			<destination>{664de90e-1bc0-4585-b823-c012690edc42}</destination>
+		</relationship>
+		<relationship name="parameter">
+			<destination>{bc751414-cc50-4c96-9fa1-f375fd16868c}</destination>
+		</relationship>
+	</object>
+	<object class="GameParameter" id="{bc751414-cc50-4c96-9fa1-f375fd16868c}">
+		<property name="parameterType">
+			<value>1</value>
+		</property>
+		<property name="maximum">
+			<value>2</value>
+		</property>
+		<property name="initialValue">
+			<value>0</value>
+		</property>
+	</object>
+</objects>

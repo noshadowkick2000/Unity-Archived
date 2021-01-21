@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.00.00">
+	<object class="AudioFile" id="{cb691338-6b11-4b1f-9bc1-60654841a908}">
+		<property name="assetPath">
+			<value>482880__brsjak__swoosh.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>4.5118594104308389</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{ce6e119e-fdb7-4c11-bba5-50a905af4c17}</destination>
+		</relationship>
+	</object>
+</objects>

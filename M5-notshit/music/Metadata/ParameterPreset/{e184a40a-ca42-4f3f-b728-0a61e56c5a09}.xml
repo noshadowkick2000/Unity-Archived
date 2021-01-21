@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.00.00">
+	<object class="ParameterPreset" id="{e184a40a-ca42-4f3f-b728-0a61e56c5a09}">
+		<property name="name">
+			<value>PauseSound</value>
+		</property>
+		<relationship name="folder">
+			<destination>{664de90e-1bc0-4585-b823-c012690edc42}</destination>
+		</relationship>
+		<relationship name="parameter">
+			<destination>{55e14864-efdb-4e94-9943-f624c10b722c}</destination>
+		</relationship>
+	</object>
+	<object class="GameParameter" id="{55e14864-efdb-4e94-9943-f624c10b722c}">
+		<property name="parameterType">
+			<value>1</value>
+		</property>
+		<property name="maximum">
+			<value>2</value>
+		</property>
+		<property name="initialValue">
+			<value>0</value>
+		</property>
+	</object>
+</objects>

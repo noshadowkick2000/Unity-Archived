@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.00.00">
+	<object class="ParameterPreset" id="{a4bb08cc-a13a-4849-9e1c-afb89d52539e}">
+		<property name="name">
+			<value>MultiplierAmount</value>
+		</property>
+		<relationship name="folder">
+			<destination>{664de90e-1bc0-4585-b823-c012690edc42}</destination>
+		</relationship>
+		<relationship name="parameter">
+			<destination>{cd4e3367-a799-4b4d-ac99-348b116f5cbd}</destination>
+		</relationship>
+	</object>
+	<object class="GameParameter" id="{cd4e3367-a799-4b4d-ac99-348b116f5cbd}">
+		<property name="parameterType">
+			<value>1</value>
+		</property>
+		<property name="maximum">
+			<value>6</value>
+		</property>
+		<property name="initialValue">
+			<value>0</value>
+		</property>
+	</object>
+</objects>

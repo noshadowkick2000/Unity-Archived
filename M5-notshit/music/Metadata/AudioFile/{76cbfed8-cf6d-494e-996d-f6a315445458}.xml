@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.00.00">
+	<object class="AudioFile" id="{76cbfed8-cf6d-494e-996d-f6a315445458}">
+		<property name="assetPath">
+			<value>green2.wav</value>
+		</property>
+		<property name="isStreaming">
+			<value>true</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>30.719999999999999</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{ce6e119e-fdb7-4c11-bba5-50a905af4c17}</destination>
+		</relationship>
+	</object>
+</objects>

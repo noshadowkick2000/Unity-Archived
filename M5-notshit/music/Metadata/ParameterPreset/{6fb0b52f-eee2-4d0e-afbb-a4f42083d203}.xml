@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.00.00">
+	<object class="ParameterPreset" id="{6fb0b52f-eee2-4d0e-afbb-a4f42083d203}">
+		<property name="name">
+			<value>Amount of Zombies</value>
+		</property>
+		<relationship name="folder">
+			<destination>{664de90e-1bc0-4585-b823-c012690edc42}</destination>
+		</relationship>
+		<relationship name="parameter">
+			<destination>{8c48251e-7b10-4d25-a6bc-8383312f350c}</destination>
+		</relationship>
+	</object>
+	<object class="GameParameter" id="{8c48251e-7b10-4d25-a6bc-8383312f350c}">
+		<property name="parameterType">
+			<value>1</value>
+		</property>
+		<property name="maximum">
+			<value>11</value>
+		</property>
+		<property name="initialValue">
+			<value>0</value>
+		</property>
+	</object>
+</objects>
