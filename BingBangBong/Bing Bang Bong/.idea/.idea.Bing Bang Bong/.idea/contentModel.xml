@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\nsk20\.Rider2019.2\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\nsk20\.Rider2019.2\system\resharper-host\local\Transient\ReSharperHost\v192\SolutionCaches\_Bing Bang Bong.915550742.00" t="ExcludeRecursive" />
+    <e p="C:\Users\nsk20\Desktop\UnityArchive\BingBangBong\Bing Bang Bong" t="IncludeRecursive">
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="AudioManager.cs" t="Include" />
+        <e p="Free Low Poly Chess Set" t="Include">
+          <e p="README.txt" t="Include" />
+        </e>
+        <e p="GameSetter.cs" t="Include" />
+        <e p="Manager.cs" t="Include" />
+        <e p="ReplayCam.cs" t="Include" />
+      </e>
+      <e p="Bing Bang Bong.sln" t="IncludeFlat" />
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="Packages" t="ExcludeRecursive" />
+      <e p="Temp\bin" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>

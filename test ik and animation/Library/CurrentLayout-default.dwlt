@@ -115,7 +115,7 @@ MonoBehaviour:
   m_MinSize: {x: 579, y: 492}
   m_MaxSize: {x: 14002, y: 14042}
   vertical: 0
-  controlID: 36
+  controlID: 154
 --- !u!114 &6
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -140,7 +140,7 @@ MonoBehaviour:
   m_MinSize: {x: 303, y: 492}
   m_MaxSize: {x: 10001, y: 14042}
   vertical: 1
-  controlID: 37
+  controlID: 28
 --- !u!114 &7
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -165,7 +165,7 @@ MonoBehaviour:
   m_MinSize: {x: 303, y: 221}
   m_MaxSize: {x: 8003, y: 4021}
   vertical: 0
-  controlID: 38
+  controlID: 29
 --- !u!114 &8
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -324,10 +324,10 @@ MonoBehaviour:
     m_VRangeLocked: 0
     hZoomLockedByDefault: 0
     vZoomLockedByDefault: 0
-    m_HBaseRangeMin: -203.2
-    m_HBaseRangeMax: 203.2
-    m_VBaseRangeMin: -114.4
-    m_VBaseRangeMax: 114.4
+    m_HBaseRangeMin: -218.40001
+    m_HBaseRangeMax: 218.40001
+    m_VBaseRangeMin: -122.8
+    m_VBaseRangeMax: 122.8
     m_HAllowExceedBaseRangeMin: 1
     m_HAllowExceedBaseRangeMax: 1
     m_VAllowExceedBaseRangeMin: 1
@@ -344,11 +344,11 @@ MonoBehaviour:
     m_DrawArea:
       serializedVersion: 2
       x: 0
-      y: 21
+      y: 0
       width: 643
-      height: 286
+      height: 307
     m_Scale: {x: 1, y: 1}
-    m_Translation: {x: 321.5, y: 143}
+    m_Translation: {x: 321.5, y: 153.5}
     m_MarginLeft: 0
     m_MarginRight: 0
     m_MarginTop: 0
@@ -356,9 +356,9 @@ MonoBehaviour:
     m_LastShownAreaInsideMargins:
       serializedVersion: 2
       x: -321.5
-      y: -143
+      y: -153.5
       width: 643
-      height: 286
+      height: 307
     m_MinimalGUI: 1
   m_defaultScale: 1
   m_LastWindowPixelSize: {x: 803.75, y: 383.75}
@@ -396,9 +396,9 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: 723e0000
+      m_SelectedIDs: 
       m_LastClickedID: 0
-      m_ExpandedIDs: a6dbffffd84b0000ee4b0000
+      m_ExpandedIDs: 1efbffff
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -508,7 +508,7 @@ MonoBehaviour:
   m_Rotation:
     m_Target: {x: -0.14786938, y: -0.4076119, z: 0.066703565, w: -0.8988227}
     speed: 2
-    m_Value: {x: -0.14784391, y: -0.4075417, z: 0.06669208, w: -0.89866793}
+    m_Value: {x: 0.14786938, y: 0.40761188, z: -0.06670356, w: 0.89882267}
   m_Size:
     m_Target: 0.6569668
     speed: 2
@@ -652,9 +652,9 @@ MonoBehaviour:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 4c4c0000
-    m_LastClickedID: 19532
-    m_ExpandedIDs: 000000004c4c000000ca9a3b
+    m_SelectedIDs: 38390000
+    m_LastClickedID: 14648
+    m_ExpandedIDs: 000000003839000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -682,7 +682,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 000000004c4c0000
+    m_ExpandedIDs: 0000000038390000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -709,7 +709,7 @@ MonoBehaviour:
   m_ListAreaState:
     m_SelectedInstanceIDs: 
     m_LastClickedInstanceID: 0
-    m_HadKeyboardFocusLastEvent: 1
+    m_HadKeyboardFocusLastEvent: 0
     m_ExpandedInstanceIDs: c623000044e8ffff683000000431000070310000000000003c330000e62e0000782f0000a031000002360000f03c0000c23c00006a420000fa3c0000f63c0000663d0000364b0000984b0000f44a0000084d0000104c0000404b00000e4c0000f24b0000f64a0000be4c0000424b0000ac4c0000c84b0000744c00002a4d00003e49000046460000984600005e430000dc48000062470000a84700000e3e000070470000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
@@ -856,4 +856,29 @@ MonoBehaviour:
     y: 73.6
     width: 325
     height: 710
+  m_ViewDataDictionary: {fileID: 0}
+--- !u!114 &21
+MonoBehaviour:
+  m_ObjectHideFlags: 52
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 12059, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: 
+  m_EditorClassIdentifier: UnityEditor:UnityEditor.PackageManager.UI:PackageManagerProjectSettings
+  m_MinSize: {x: 100, y: 100}
+  m_MaxSize: {x: 4000, y: 4000}
+  m_TitleContent:
+    m_Text: Failed to load
+    m_Image: {fileID: 0}
+    m_Tooltip: 
+  m_Pos:
+    serializedVersion: 2
+    x: 0
+    y: 0
+    width: 320
+    height: 550
   m_ViewDataDictionary: {fileID: 0}

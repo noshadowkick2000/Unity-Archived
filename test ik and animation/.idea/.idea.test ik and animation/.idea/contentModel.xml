@@ -9,6 +9,7 @@
       <e p="Assets" t="Include">
         <e p="Controls.cs" t="Include" />
         <e p="RotateToAttention.cs" t="Include" />
+        <e p="test.cs" t="Include" />
         <e p="Unity" t="Include">
           <e p="ConstraintSamples" t="Include">
             <e p="Scripts" t="Include">

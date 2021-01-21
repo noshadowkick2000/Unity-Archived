@@ -62,6 +62,7 @@
      <Compile Include="Assets\RotateToAttention.cs" />
      <Compile Include="Assets\Unity\ConstraintSamples\Scripts\mParent.cs" />
      <Compile Include="Assets\Unity\Info\Scripts\Readme.cs" />
+     <Compile Include="Assets\test.cs" />
  <Reference Include="Unity.Timeline.Editor">
  <HintPath>C:/Users/nsk20/Desktop/UnityArchive/Unity-Archived/test ik and animation/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
  </Reference>

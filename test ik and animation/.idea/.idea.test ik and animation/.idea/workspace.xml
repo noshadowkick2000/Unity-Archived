@@ -14,12 +14,14 @@
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/Assets/RotateToAttention.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Controls.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/test.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/Assets/Controls.cs" />
         <option value="$PROJECT_DIR$/Assets/RotateToAttention.cs" />
+        <option value="$PROJECT_DIR$/Assets/test.cs" />
       </list>
     </option>
   </component>
@@ -73,6 +75,7 @@
       <workItem from="1586966322889" duration="356000" />
       <workItem from="1587329419326" duration="1204000" />
       <workItem from="1605717316484" duration="1635000" />
+      <workItem from="1608392666045" duration="307000" />
     </task>
     <servers />
   </component>
